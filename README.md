@@ -10,12 +10,21 @@
 
 ## Development Environment SetUp
 
-1. [windows](#windows)
-2. [mac os](#mac-os)
+1. [Windows](#windows)
+2. [Mac OS](#mac-os)
 
 ### Windows
 
+1. PowerShell & Windows Terminal
+2. Chocolatey
+3. IDE, Code Editor
+4. WSL
+
 ### Mac OS
+
+1. Terminal, iTerm, Hyper
+2. HomeBrew
+3. IDE, Code Editor
 
 ## Git, Github, Github CLI
 
