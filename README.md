@@ -8,6 +8,11 @@
 4. [Basic Algorithm](#basic-algorithm)
 5. [Common Algorithm](#common-algorithm)
 
+> ## ❗ Warning
+>
+> This document is a prototype, not a official release
+>
+
 ## Development Environment SetUp
 
 1. [Windows](#windows)
